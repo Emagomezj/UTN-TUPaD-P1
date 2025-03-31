@@ -1,0 +1,11 @@
+Para este trabajo en lugar de pegar directamente los archivos, comparto por medio de este archivo los links a los repositorios a fin de que puedan ser constatados los cambios y la correcta realización del mismo
+
+Enlaces a los repositorios:
+
+TP2 - 02 Creating new Branch
+
+https://github.com/Emagomezj/repositorio_ejemplo
+
+TP2 - 03 Conflict Exercise
+
+https://github.com/Emagomezj/conflict_exercise
